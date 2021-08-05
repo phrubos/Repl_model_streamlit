@@ -16,7 +16,7 @@ col1 = st.sidebar
 col2, col3 = st.beta_columns(2)
 
 
-directory = Path("c:/RégiGép/Turn up the workin' !!!!!!!/#MODELS/###GA MODELS/#REPLENISHMENT/ReplModel_2021/Others/Repl_model_streamlit/")
+directory = Path("c:/RégiGép/Turn up the workin' !!!!!!!/#MODELS/###GA MODELS/#REPLENISHMENT/ReplModel_2021/Others/Repl_model_streamlit/Github_repo_Repl_model/")
 
 
 # Image - Opening
