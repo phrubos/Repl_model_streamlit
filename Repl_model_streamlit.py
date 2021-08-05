@@ -20,8 +20,8 @@ directory = Path("c:/RégiGép/Turn up the workin' !!!!!!!/#MODELS/###GA MODELS/
 
 
 # Image - Opening
-image = Image.open(directory / 'repl.png')
-col2.image(image, width=500)
+#image = Image.open(directory / 'repl.png')
+#col2.image(image, width=500)
 
 
 col2.title('Replenishement Model')
